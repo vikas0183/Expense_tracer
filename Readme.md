@@ -19,11 +19,11 @@ The application will automatically create a SQLite database file: expenses.db.
 
 ## How to use the app.
 
-- First create a budget for a category using choise 2
-- Try to add the expense for that category using choice 1
+- First create a budget for a category using choise 2.
+- Try to add the expense for that category using choice 1.
 - Add expenses more than the budget to check the alert (budget overriding).
-- Run report after many categories using choise 3
-- Exit the app using exit choice
+- Run report after many categories using choise 3.
+- Exit the app using exit choice only.
 
 ---
 
